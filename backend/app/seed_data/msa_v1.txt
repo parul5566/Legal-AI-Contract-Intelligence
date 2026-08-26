@@ -1,0 +1,50 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into between Northbridge Technologies Inc., a Delaware corporation ("Supplier"), and Meridian Retail Group LLC, a New York limited liability company ("Customer"), effective March 1, 2026.
+
+1. SCOPE OF SERVICES
+Supplier shall provide software development and maintenance services as described in one or more Statements of Work executed by the parties. Each SOW shall reference this Agreement and specify deliverables, timelines, and acceptance criteria.
+
+2. PAYMENT TERMS
+Customer shall pay Supplier the fees set forth in each SOW within sixty (60) days of receipt of a correct invoice. Undisputed amounts not paid when due shall accrue interest at the rate of 1.5% per month. Supplier may also charge Customer for reasonable travel expenses and such other amounts as may be agreed between the parties.
+
+3. TERM AND TERMINATION
+This Agreement commences on the Effective Date and continues for an initial term of two (2) years. Thereafter it shall renew automatically for successive one-year terms unless either party gives written notice of non-renewal. Either party may terminate this Agreement for convenience immediately upon written notice. Either party may terminate for material breach not cured within thirty (30) days of written notice.
+
+4. CONFIDENTIALITY
+Each party shall protect the other party's Confidential Information with no less than reasonable care and shall not disclose it to any third party except to employees and contractors with a need to know. The obligations of confidentiality shall survive termination of this Agreement for a period of three (3) years.
+
+5. INTELLECTUAL PROPERTY
+All work product, source code, and deliverables created by Supplier under this Agreement shall be owned by Supplier. Customer receives a non-exclusive, non-transferable license to use the deliverables for its internal business purposes. Supplier retains all right, title, and interest in its pre-existing intellectual property and all derivative works thereof.
+
+6. INDEMNIFICATION
+Customer shall defend, indemnify, and hold harmless Supplier and its affiliates from any and all claims, damages, and expenses arising out of Customer's use of the deliverables, Customer's data, or Customer's breach of this Agreement.
+
+7. LIMITATION OF LIABILITY
+SUPPLIER'S LIABILITY UNDER THIS AGREEMENT SHALL BE UNLIMITED FOR ANY DIRECT DAMAGES. Supplier shall additionally be liable for all consequential, indirect, and incidental damages howsoever caused. Neither party shall be liable for lost profits except that Supplier shall be entitled to recover its lost profits in full.
+
+8. DATA PROTECTION
+Each party shall comply with applicable data protection laws with respect to any personal data processed under this Agreement.
+
+9. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware, without regard to its conflict of laws principles.
+
+10. DISPUTE RESOLUTION
+Any dispute arising out of this Agreement shall be resolved by binding arbitration in Wilmington, Delaware, before a single arbitrator. The parties waive any right to a jury trial.
+
+11. ASSIGNMENT
+Customer may not assign this Agreement without Supplier's prior written consent, which may be withheld in Supplier's sole discretion. Supplier may assign freely to any successor.
+
+12. FORCE MAJEURE
+Neither party shall be liable for delays caused by force majeure events, including acts of God, natural disasters, war, and labor disputes.
+
+13. INSURANCE
+Supplier shall maintain commercial general liability insurance with coverage of at least $1,000,000 per occurrence and shall provide certificates upon request.
+
+14. COMPLIANCE
+Each party shall comply with all applicable laws, including anti-corruption laws such as the FCPA and applicable export control and sanctions regulations.
+
+15. NOTICES
+All notices under this Agreement shall be in writing and delivered to the addresses set forth above.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.

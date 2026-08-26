@@ -1,0 +1,53 @@
+MASTER SERVICES AGREEMENT (REVISED)
+
+This Master Services Agreement ("Agreement") is entered into between Northbridge Technologies Inc., a Delaware corporation ("Supplier"), and Meridian Retail Group LLC, a New York limited liability company ("Customer"), effective June 15, 2026.
+
+1. SCOPE OF SERVICES
+Supplier shall provide software development and maintenance services as described in one or more Statements of Work executed by the parties. Each SOW shall reference this Agreement and specify deliverables, timelines, and acceptance criteria.
+
+2. PAYMENT TERMS
+Customer shall pay Supplier the fees set forth in each SOW within thirty (30) days of receipt of a correct invoice. Undisputed amounts not paid when due shall accrue interest at the rate of 1.0% per month. Supplier may charge Customer for pre-approved travel expenses only.
+
+3. TERM AND TERMINATION
+This Agreement commences on the Effective Date and continues for an initial term of two (2) years. Thereafter it shall renew for successive one-year terms only upon mutual written agreement. Either party may terminate this Agreement for convenience upon ninety (90) days prior written notice. Either party may terminate for material breach not cured within thirty (30) days of written notice.
+
+4. CONFIDENTIALITY
+Each party shall protect the other party's Confidential Information with no less than reasonable care and shall not disclose it to any third party except to employees and contractors with a need to know. The obligations of confidentiality shall survive termination of this Agreement for a period of five (5) years.
+
+5. INTELLECTUAL PROPERTY
+All work product, source code, and deliverables created by Supplier under this Agreement shall be owned by Customer upon full payment. Supplier retains all right, title, and interest in its pre-existing intellectual property. Customer receives a perpetual, irrevocable, worldwide license to any tools maintained by Supplier.
+
+6. INDEMNIFICATION
+Each party shall defend, indemnify, and hold harmless the other party from third-party claims arising out of the indemnifying party's negligence, willful misconduct, or infringement of intellectual property rights.
+
+7. LIMITATION OF LIABILITY
+Each party's aggregate liability under this Agreement shall not exceed the total fees paid or payable in the twelve (12) months preceding the claim. Neither party shall be liable for any consequential, indirect, or incidental damages. The foregoing limitations shall not apply to breaches of confidentiality or indemnification obligations.
+
+8. DATA PROTECTION
+Each party shall comply with applicable data protection laws with respect to any personal data processed under this Agreement. The parties acknowledge that Customer acts as controller and Supplier acts as processor, and a Data Processing Addendum is incorporated by reference. Supplier shall notify Customer of any security breach within seventy-two (72) hours.
+
+9. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of New York, without regard to its conflict of laws principles.
+
+10. DISPUTE RESOLUTION
+The parties shall first attempt to resolve any dispute through good-faith mediation. If mediation fails within sixty (60) days, any dispute shall be resolved by the state and federal courts located in New York County, New York. Each party waives any right to a jury trial.
+
+11. ASSIGNMENT
+Neither party may assign this Agreement without the other party's prior written consent, except to a successor in a merger or sale of substantially all assets.
+
+12. FORCE MAJEURE
+Neither party shall be liable for delays caused by force majeure events, including acts of God, natural disasters, war, and labor disputes, provided the affected party gives prompt notice and uses reasonable efforts to mitigate.
+
+13. INSURANCE
+Supplier shall maintain commercial general liability insurance with coverage of at least $2,000,000 per occurrence and cyber liability insurance of at least $5,000,000, and shall provide certificates upon request.
+
+14. COMPLIANCE
+Each party shall comply with all applicable laws, including anti-corruption laws such as the FCPA and applicable export control and sanctions regulations. Supplier shall maintain an information security program aligned with industry standards.
+
+15. NON-SOLICITATION
+During the term and for twelve (12) months thereafter, neither party shall directly solicit for employment any employee of the other party who was materially involved in the performance of this Agreement.
+
+16. NOTICES
+All notices under this Agreement shall be in writing and delivered to the addresses set forth above.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.

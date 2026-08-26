@@ -1,0 +1,26 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into between Cascade Analytics Ltd., a company registered in England and Wales ("Disclosing Party"), and Harborview Capital Partners ("Receiving Party"), effective January 20, 2026.
+
+1. DEFINITION OF CONFIDENTIAL INFORMATION
+"Confidential Information" means any non-public information disclosed by either party, whether orally, in writing, or in electronic form, including business plans, financial data, customer lists, technical specifications, and trade secrets.
+
+2. OBLIGATIONS OF THE RECEIVING PARTY
+The Receiving Party shall use the Confidential Information solely to evaluate a potential business relationship, shall protect it with reasonable care, and shall not disclose it to any third party without prior written consent. The Receiving Party may share Confidential Information with advisors bound by confidentiality obligations.
+
+3. TERM AND TERMINATION
+This Agreement remains in effect for two (2) years from the Effective Date, after which the confidentiality obligations continue for an additional three (3) years with respect to trade secret information.
+
+4. NO WARRANTY
+All Confidential Information is provided "as is". Neither party makes any warranty regarding the accuracy or completeness of the Confidential Information.
+
+5. RETURN OF MATERIALS
+Upon written request, each party shall return or destroy all Confidential Information in its possession within thirty (30) days.
+
+6. GOVERNING LAW
+This Agreement shall be governed by the laws of England and Wales, and the parties submit to the exclusive jurisdiction of the courts of London.
+
+7. NO LICENCE
+No licence or right under any patent, copyright, or other intellectual property right is granted by this Agreement, whether expressly or by implication.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
